@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1742733566 source:c:\users\gobinath\onedrive\desktop\least\main.cpp
+	<iostream>
+	"module.h"
+
+1742732499 c:\users\gobinath\onedrive\desktop\module.h
+
+1742732499 c:\users\gobinath\onedrive\desktop\least\module.h
+
+1742734097 source:c:\users\gobinath\onedrive\desktop\fibonacci_module\main.cpp
+	<iostream>
+	"module.h"
+
+1742732499 c:\users\gobinath\onedrive\desktop\fibonacci_module\module.h
+
+1742734097 source:c:\users\gobinath\onedrive\desktop\fibonacci_module_v1\main.cpp
+	<iostream>
+	"module.h"
+
+1742732499 c:\users\gobinath\onedrive\desktop\fibonacci_module_v1\module.h
+
